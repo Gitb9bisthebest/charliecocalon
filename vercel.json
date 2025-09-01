@@ -9,7 +9,12 @@
       }
     }
   ],
+
   "routes": [
+    {
+      "src": "/assets/(.*)",
+      "dest": "/assets/$1"
+    },
     {
       "src": "/fonts/(.*)",
       "dest": "/fonts/$1",
