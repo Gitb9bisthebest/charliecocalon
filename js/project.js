@@ -16,7 +16,7 @@ const projectsData = {
     clientTitle: "Entreprenuer, NF Fabric",
     clientFeedback:
       "Charlie transformed our vision into something we never knew we needed. Every stitch, every fold felt intentional. The final collection wasn't just clothing—it was storytelling through fabric. Pure artistry.",
-    clientImage: "/images/project/client-portrait.jpg",
+    clientImage: "/images/project/client-portrait-female.webp",
     heroImage: "/images/work-items/work-item-1.webp",
     snapshotImages: [
       "/images/work-items/work-item-4.webp",
@@ -37,7 +37,7 @@ const projectsData = {
     clientTitle: "Cebu Web Expert | Owner",
     clientFeedback:
       "We asked for bold, and Charlie delivered nuclear. This project redefined our entire brand language. The colors don't just pop—they explode with personality. It's art that refuses to be ignored.",
-    clientImage: "/images/project/client-portrait.jpg",
+    clientImage: "/images/project/client-portrait-male.webp",
     heroImage: "/images/work-items/work-item-2.webp",
     snapshotImages: [
       "/images/work-items/work-item-1.webp",
@@ -57,12 +57,12 @@ const projectsData = {
     clientTitle: "Owner, Funky Monkey Craft",
     clientFeedback:
       "Charlie's artistry is a fusion of whimsy and adventure. Their designs are both whimsical and playful, making them a joy to look at and wear. They bring joy and excitement to our lives.",
-    clientImage: "/images/project/client-portrait.jpg",
+    clientImage: "/images/project/client-portrait-male.webp",
     heroImage: "/images/work-items/work-item-3.webp",
     snapshotImages: [
       "/images/work-items/work-item-6.webp",
-      "/images/work-items/work-item-8.jpg",
-      "/images/work-items/work-item-10.jpg",
+      "/images/work-items/work-item-8.webp",
+      "/images/work-items/work-item-10.webp",
     ],
   },
 
@@ -78,7 +78,7 @@ const projectsData = {
     clientTitle: "Owner, Panaderos Bakery",
     clientFeedback:
       "Charlie's artistry is a fusion of whimsy and adventure. Their designs are both whimsical and playful, making them a joy to look at and wear. They bring joy and excitement to our lives.",
-    clientImage: "/images/project/client-portrait.jpg",
+    clientImage: "/images/project/client-portrait-male.webp",
     heroImage: "/images/work-items/work-item-4.webp",
     snapshotImages: [
       "/images/work-items/work-item-3.webp",
@@ -99,7 +99,7 @@ const projectsData = {
     clientTitle: "Owner, Beauty Lab",
     clientFeedback:
       "Charlie's artistry is a fusion of whimsy and adventure. Their designs are both whimsical and playful, making them a joy to look at and wear. They bring joy and excitement to our lives.",
-    clientImage: "/images/project/client-portrait.jpg",
+    clientImage: "/images/project/client-portrait-female.webp",
     heroImage: "/images/work-items/work-item-5.webp",
     snapshotImages: [
       "/images/work-items/work-item-6.webp",
@@ -120,7 +120,7 @@ const projectsData = {
     clientTitle: "Owner, LiveGood by Amirkh",
     clientFeedback:
       "Charlie's artistry is a fusion of whimsy and adventure. Their designs are both whimsical and playful, making them a joy to look at and wear. They bring joy and excitement to our lives.",
-    clientImage: "/images/project/client-portrait.jpg",
+    clientImage: "/images/project/client-portrait-male.webp",
     heroImage: "/images/work-items/work-item-6.webp",
     snapshotImages: [
       "/images/work-items/work-item-1.webp",
