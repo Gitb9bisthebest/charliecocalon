@@ -82,8 +82,8 @@ const projectsData = {
     heroImage: "/images/work-items/work-item-4.webp",
     snapshotImages: [
       "/images/work-items/work-item-3.webp",
-      "/images/work-items/work-item-7.jpg",
-      "/images/work-items/work-item-9.jpg",
+      "/images/work-items/work-item-7.webp",
+      "/images/work-items/work-item-9.webp",
     ],
   },
 
@@ -104,7 +104,7 @@ const projectsData = {
     snapshotImages: [
       "/images/work-items/work-item-6.webp",
       "/images/work-items/work-item-1.webp",
-      "/images/work-items/work-item-8.jpg",
+      "/images/work-items/work-item-8.webp",
     ],
   },
 
@@ -125,7 +125,7 @@ const projectsData = {
     snapshotImages: [
       "/images/work-items/work-item-1.webp",
       "/images/work-items/work-item-3.webp",
-      "/images/work-items/work-item-10.jpg",
+      "/images/work-items/work-item-10.webp",
     ],
   },
 };

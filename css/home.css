@@ -227,6 +227,7 @@
   aspect-ratio: 4/5;
   border-radius: 2em;
   overflow: hidden;
+  height: auto;
 }
 
 .services #service-card-1 .service-card-inner {
@@ -248,6 +249,10 @@
 
 @media (max-width: 1000px) {
   .hero .hero-footer .hero-footer-symbols {
+    display: none;
+  }
+
+  .not-mobile {
     display: none;
   }
 
@@ -333,8 +338,10 @@
   }
 
   .services .service-card-img {
-    aspect-ratio: 5/3;
+    /* aspect-ratio: 5/3;  try to remove this */
     border: 0.2em solid var(--fg);
     border-radius: 1em;
+    height: auto; /* try to add this line */
+    min-height: 200px; /* try to add this line */
   }
 }
