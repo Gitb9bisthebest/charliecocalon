@@ -66,6 +66,10 @@
     gap: 4em;
   }
 
+  .contact-card {
+    z-index: unset;
+  }
+
   .contact .contact-card {
     width: 100%;
     justify-content: center;
